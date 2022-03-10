@@ -1,0 +1,14 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /cm
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cm?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: root
+
+logging:
+  level:
+    com.sunny.cm.dao: debug
