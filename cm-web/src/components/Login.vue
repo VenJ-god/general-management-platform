@@ -75,6 +75,6 @@
   .login-title {
     text-align: center;
     margin: 0 auto 40px auto;
-    color: #ffffff;
+    /*color: #ffffff;*/
   }
 </style>
