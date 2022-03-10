@@ -1,6 +1,6 @@
 # cm-web
 
-> 通用平台
+> 通用平台前端代码
 
 ## Build Setup
 
